@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "martina.png"
   name             : "Martina Boschi"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate @ USI"
-  location         : "Lugano"
+  location         : "Lugano, Switzerland"
   employer         : 
   URI              : "https://martinaboschi.github.io"
   email            : "martinaboschi@usi.ch" 
