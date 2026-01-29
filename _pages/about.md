@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year **PhD candidate in Computational Science** at Università della Svizzera italiana (USI), under the mentoring of **Prof. Ernst C. Wit**.
+I am a fourth-year **PhD candidate in Computational Science** at Università della Svizzera italiana (USI), under the mentoring of **Prof. Ernst C. Wit**.
 
 My research focuses on **network science**, particularly on the **statistical modeling of time-stamped relational data** 📊. 
 I specialize in developing methodological advances for relational event models 👥⏱️.
