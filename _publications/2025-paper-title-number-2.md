@@ -4,12 +4,12 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-paper-title-number-2
 excerpt: ''
-date: 2025-10-27
+date: 2026
 venue: 'Statistics and Computing'
 slidesurl: 
 paperurl: 
 bibtexurl: 'https://martinaboschi.github.io/files/bibtex2.bib'
-citation: 'Boschi, M., Wit, E.C. Goodness of fit in relational event models. Stat Comput 36, 4 (2025). https://doi.org/10.1007/s11222-025-10751-2'
+citation: 'Boschi, Martina, and Ernst C. Wit. "Goodness of fit in relational event models." Statistics and Computing 36.1 (2026): 4. https://doi.org/10.1007/s11222-025-10751-2'
 ---
 
 **Abstract**: 
