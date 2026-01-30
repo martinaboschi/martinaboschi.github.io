@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-paper-title-number-2
 excerpt: ''
-date: 2026
+date: 2025-10-27
 venue: 'Statistics and Computing'
 slidesurl: 
 paperurl: 
